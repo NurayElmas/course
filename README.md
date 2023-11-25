@@ -11,6 +11,6 @@
 
  <h2> Ekran Görüntüsü</h2>
 
- ![](udemig.git)
+ ![](udemig.gif)
 
 
